@@ -10,7 +10,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=F8B6D2)](https://savannah-drake.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F8B6D2)]([(https://www.linkedin.com/in/savannahdrake10/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F8B6D2)](https://www.linkedin.com/in/savannahdrake10/)
 
 </div>
 
