@@ -10,7 +10,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=F8B6D2)](https://savannah-drake.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F8B6D2)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F8B6D2)]([(https://www.linkedin.com/in/savannahdrake10/)
 
 </div>
 
@@ -69,8 +69,7 @@ Geospatial analysis exploring neighborhood-level food access across Atlanta and 
 
 `Python` `GeoPandas` `Streamlit` `Data Visualization`
 
-**[→ View Dashboard](https://fresh-food-access-dashboard.streamlit.app/)** · **[→ View Project](<img width="2500" height="1666" alt="image" src="https://github.com/user-attachments/assets/0ebabf8b-6729-401f-83fa-7489c6d5de43" />
-)**
+**[→ View Dashboard](https://fresh-food-access-dashboard.streamlit.app/)** 
 
 ---
 
@@ -81,8 +80,7 @@ Analyzed **18,000+ flight records** to identify patterns associated with major d
 
 `Python` `SQL` `Snowflake` `scikit-learn` `Streamlit`
 
-**[→ View Project](<img width="2500" height="1666" alt="image" src="https://github.com/user-attachments/assets/7f7261ec-a3b9-4105-a658-88595c7b73db" />
-)**
+**[→ View Project](https://b2-american-airlines-disruption-risk.streamlit.app/)**
 
 ---
 
@@ -105,7 +103,7 @@ I'm always interested in opportunities where **data analysis meets real-world de
 
 <br>
 
-**[Portfolio](https://savannah-drake.github.io)** · **[LinkedIn](https://www.linkedin.com/in/savannahdrake10/))** · **[GitHub](https://github.com/savannah-drake)**
+**[Portfolio](https://savannah-drake.github.io)** · **[LinkedIn](https://www.linkedin.com/in/savannahdrake10/)** · **[GitHub](https://github.com/savannah-drake)**
 
 <br>
 
