@@ -69,7 +69,8 @@ Geospatial analysis exploring neighborhood-level food access across Atlanta and 
 
 `Python` `GeoPandas` `Streamlit` `Data Visualization`
 
-**[→ View Dashboard](https://fresh-food-access-dashboard.streamlit.app/)** · **[→ View Project](#)**
+**[→ View Dashboard](https://fresh-food-access-dashboard.streamlit.app/)** · **[→ View Project](<img width="2500" height="1666" alt="image" src="https://github.com/user-attachments/assets/0ebabf8b-6729-401f-83fa-7489c6d5de43" />
+)**
 
 ---
 
@@ -80,7 +81,8 @@ Analyzed **18,000+ flight records** to identify patterns associated with major d
 
 `Python` `SQL` `Snowflake` `scikit-learn` `Streamlit`
 
-**[→ View Project](#)**
+**[→ View Project](<img width="2500" height="1666" alt="image" src="https://github.com/user-attachments/assets/7f7261ec-a3b9-4105-a658-88595c7b73db" />
+)**
 
 ---
 
@@ -91,7 +93,7 @@ Explored patterns across **10,000 songs** using clustering techniques to identif
 
 `Python` `pandas` `scikit-learn` `Matplotlib`
 
-**[→ View Project](#)**
+**[→ View Project](https://savannah-drake--spotify-audio-clustering-app-8d3lfi.streamlit.app/)**
 
 ---
 
@@ -103,7 +105,7 @@ I'm always interested in opportunities where **data analysis meets real-world de
 
 <br>
 
-**[Portfolio](https://savannah-drake.github.io)** · **[LinkedIn](https://www.linkedin.com/)** · **[GitHub](https://github.com/)**
+**[Portfolio](https://savannah-drake.github.io)** · **[LinkedIn](https://www.linkedin.com/in/savannahdrake10/))** · **[GitHub](https://github.com/savannah-drake)**
 
 <br>
 
