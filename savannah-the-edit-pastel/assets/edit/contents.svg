@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#191919} .micro{font-size:22px;font-weight:700;letter-spacing:3px} .small{font-size:25px} .mid{font-size:35px;font-weight:700} .big{font-size:110px;font-weight:800;letter-spacing:-7px} .num{font-size:75px;font-weight:800} .muted{fill:#615e5b}
+</style>
+<rect width="1200" height="560" rx="38" fill="#F3EFF9"/>
+<text x="65" y="90" class="micro">INSIDE THIS ISSUE</text><text x="65" y="166" font-size="72" font-weight="800">projects worth a closer look.</text>
+<rect x="65" y="220" width="515" height="120" rx="30" fill="#F9D9E8"/><text x="90" y="268" class="micro">01 / HEALTH + HUMANITY</text><text x="90" y="313" class="mid">Continuity</text>
+<rect x="620" y="220" width="515" height="120" rx="30" fill="#F7E18A"/><text x="645" y="268" class="micro">02 / EQUITY + PLACE</text><text x="645" y="313" class="mid">Fresh Food Access</text>
+<rect x="65" y="365" width="515" height="120" rx="30" fill="#C9D8FA"/><text x="90" y="413" class="micro">03 / PREDICTIVE ANALYTICS</text><text x="90" y="458" class="mid">Flight Disruption Risk</text>
+<rect x="620" y="365" width="515" height="120" rx="30" fill="#C9DEBE"/><text x="645" y="413" class="micro">04 / URBAN DATA</text><text x="645" y="458" class="mid">World Cup Transit Model</text>
+<text x="70" y="530" class="small">BONUS TRACK: Spotify Audio Clustering ↗</text>
+</svg>
