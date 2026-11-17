@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#191919} .micro{font-size:22px;font-weight:700;letter-spacing:3px} .small{font-size:25px} .mid{font-size:35px;font-weight:700} .big{font-size:110px;font-weight:800;letter-spacing:-7px} .num{font-size:75px;font-weight:800} .muted{fill:#615e5b}
+</style>
+<rect width="1200" height="500" rx="36" fill="#FFF0BE"/><rect x="40" y="40" width="1120" height="420" rx="32" fill="#FFFDF9"/>
+<rect x="72" y="70" width="490" height="51" rx="26" fill="#F7E086"/><text x="97" y="104" class="micro">02  /  DATA FOR GOOD</text>
+<text x="76" y="218" font-size="63" font-weight="800">Fresh Food Access</text>
+<text x="78" y="270" class="small muted">Mapping the geography of opportunity.</text>
+<rect x="76" y="324" width="295" height="76" rx="38" fill="#191919"/><text x="110" y="373" font-size="29" font-weight="700" fill="#FFFFFF">EXPLORE PROJECT  ↗</text>
+<rect x="721" y="147" width="426" height="280" rx="36" fill="#D7E8BA"/>
+<rect x="765" y="208" width="340" height="180" rx="24" fill="#FFF"/><text x="790" y="255" class="small">access by neighborhood</text><rect x="790" y="289" width="53" height="66" rx="10" fill="#C6DBAD"/><rect x="856" y="270" width="53" height="85" rx="10" fill="#F5BBD9"/><rect x="922" y="303" width="53" height="52" rx="10" fill="#B9CDF1"/><rect x="988" y="253" width="53" height="102" rx="10" fill="#F3DC85"/><text x="785" y="414" class="micro">FEATURED WORK / 02</text>
+</svg>
