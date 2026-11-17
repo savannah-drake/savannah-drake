@@ -1,116 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=180&section=header&text=SAVANNAH%20DRAKE&fontSize=42&fontColor=F8B6D2&fontAlignY=45&desc=DATA%20%E2%80%A2%20BUSINESS%20%E2%80%A2%20DECISION-MAKING&descSize=15&descAlignY=65&descColor=FFFFFF" width="100%"/>
+<img src="assets/edit/cover.png" width="100%" alt="SAVANNAH: The Edit, Issue 01, Fall 2026. Data Science @ Emory, Data Strategy & Analytics @ Invest Atlanta. Open to summer 2027 internships." />
 
-<br>
+<img src="assets/edit/contents.png" width="100%" alt="Contents: Continuity, Fresh Food Access, Flight Disruption Risk, World Cup Transit Model, Spotify Clustering" />
 
-### ✦ Data & Decision Sciences @ Emory University
-**Data Strategy & Analytics Intern @ Invest Atlanta**
+<a href="https://github.com/savannah-drake/Continuity"><img src="assets/edit/clip-continuity.png" width="49%" alt="Continuity: healthcare app built at Emory Hacks" /></a>
+<a href="https://github.com/savannah-drake/fresh-food-access-dashboard"><img src="assets/edit/clip-fresh-food.png" width="49%" alt="Fresh Food Access dashboard, Best Project Poster" /></a>
 
-<br>
+<sub><b>Continuity</b> · <a href="https://github.com/savannah-drake/Continuity">code</a> · <a href="https://continuity-blond.vercel.app">live app</a> &nbsp;|&nbsp; <b>Fresh Food Access</b> · <a href="https://github.com/savannah-drake/fresh-food-access-dashboard">code</a> · <a href="https://fresh-food-access-dashboard.streamlit.app/">live app</a> (may take ~30s to wake)</sub>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=F8B6D2)](https://savannah-drake.github.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F8B6D2)](https://www.linkedin.com/in/savannahdrake10/)
+<a href="https://github.com/savannah-drake/B2-American-Airlines-Delay-Prediction-Project"><img src="assets/edit/clip-flight.png" width="49%" alt="Flight disruption risk dashboard, American Airlines case" /></a>
+<a href="https://github.com/savannah-drake/AI.DataLab2025InvestATL"><img src="assets/edit/clip-world-cup.png" width="49%" alt="World Cup transit and business disinvestment analysis" /></a>
 
-</div>
+<sub><b>Flight Disruption Risk</b> · <a href="https://github.com/savannah-drake/B2-American-Airlines-Delay-Prediction-Project">code</a> · <a href="https://b2-american-airlines-disruption-risk.streamlit.app/">live app</a> (may take ~30s to wake) &nbsp;|&nbsp; <b>World Cup Transit Model</b> · <a href="https://github.com/savannah-drake/AI.DataLab2025InvestATL">analysis</a> &nbsp;|&nbsp; <b>Spotify Clustering</b> · <a href="https://github.com/savannah-drake/-spotify-audio-clustering">code</a></sub>
 
----
+<img src="assets/edit/toolkit.png" width="100%" alt="Toolkit: Python, SQL, R, GeoPandas, scikit-learn, Streamlit, Tableau, Power BI, Snowflake, TypeScript" />
 
-## ♡ about me
+<a href="https://savannah-drake.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/savannahdrake10/">LinkedIn</a> · <a href="mailto:savannah.drake@emory.edu">savannah.drake@emory.edu</a>
 
-I'm interested in the intersection of **data, business, and decision-making**.
-
-I like asking questions, finding the **story in the data**, and building tools that make the answer easier to see.
-
-My work focuses on turning messy, real-world data into **clear insights, useful visualizations, and interactive tools** that help people understand and act on information.
-
----
-
-<div align="center">
-
-## ✦ what I like to build
-
-| 📊 **ANALYZE** | 🎨 **VISUALIZE** | 💡 **COMMUNICATE** | 🚀 **BUILD** |
-|:---:|:---:|:---:|:---:|
-| Explore data | Create dashboards | Tell the story | Interactive tools |
-| Find patterns | Make insights visible | Explain findings | Streamlit apps |
-| Answer questions | Design visualizations | Support decisions | Data products |
-
-</div>
-
----
-
-## 🎀 toolkit
-
-**Data Analysis**
-
-`Python` `SQL` `Excel` `R`
-
-**Visualization & Dashboards**
-
-`Streamlit` `Tableau` `Power BI` `Matplotlib`
-
-**Data & Modeling**
-
-`pandas` `NumPy` `scikit-learn` `GeoPandas`
-
-**Tools**
-
-`Git` `GitHub` `Jupyter` `Snowflake`
-
----
-
-## ✦ featured work
-
-### 🍎 Fresh Food Access
-**Invest Atlanta · Data Strategy & Analytics**
-
-Geospatial analysis exploring neighborhood-level food access across Atlanta and identifying areas with greater need for fresh-food investment.
-
-`Python` `GeoPandas` `Streamlit` `Data Visualization`
-
-**[→ View Dashboard](https://fresh-food-access-dashboard.streamlit.app/)** 
-
----
-
-### ✈️ Flight Disruption Analytics
-**American Airlines · Emory Data Science Club**
-
-Analyzed **18,000+ flight records** to identify patterns associated with major disruptions and built an interactive dashboard to communicate operational risk.
-
-`Python` `SQL` `Snowflake` `scikit-learn` `Streamlit`
-
-**[→ View Project](https://b2-american-airlines-disruption-risk.streamlit.app/)**
-
----
-
-### 🎵 Spotify Clustering
-**Exploratory Analysis · Unsupervised Learning**
-
-Explored patterns across **10,000 songs** using clustering techniques to identify groups of tracks with similar characteristics.
-
-`Python` `pandas` `scikit-learn` `Matplotlib`
-
-**[→ View Project](https://savannah-drake--spotify-audio-clustering-app-8d3lfi.streamlit.app/)**
-
----
-
-<div align="center">
-
-## ♡ let's connect
-
-I'm always interested in opportunities where **data analysis meets real-world decision-making.**
-
-<br>
-
-**[Portfolio](https://savannah-drake.github.io)** · **[LinkedIn](https://www.linkedin.com/in/savannahdrake10/)** · **[GitHub](https://github.com/savannah-drake)**
-
-<br>
-
-*data → story → decision ✦*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=100&section=footer" width="100%"/>
+<img src="assets/edit/footer.png" width="100%" alt="data → story → decision" />
 
 </div>
